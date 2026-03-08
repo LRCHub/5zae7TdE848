@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Pain (아름답고도 아프구나)",
+  "base_artist": "BTOB",
+  "createdAt": "2026-03-08T02:30:30.484691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Eminem feat. Sia",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Pain_Eminem_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Benedictum",
+      "has_synced": false,
+      "path": "select/02_Beautiful_Pain_Benedictum.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "2 Chainz feat. Lloyd & Ma$e",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Pain_2_Chainz_feat._Lloyd_&_Ma$e.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Pain (Feat. Lloyd & Mase)",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/04_Beautiful_Pain_(Feat._Lloyd_&_Mase)_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/05_Beautiful_Pain_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Jann Arden",
+      "has_synced": false,
+      "path": "select/06_Beautiful_Pain_Jann_Arden.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Endless Tears (Love is a Beautiful Pain)",
+      "artist": "Nakamura Maiko ft. CLIFF EDGE",
+      "has_synced": false,
+      "path": "select/07_Endless_Tears_(Love_is_a_Beautiful_Pain)_Nakamura_Maiko_ft._CLIFF_EDGE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Crashdïet",
+      "has_synced": false,
+      "path": "select/08_Beautiful_Pain_Crashdïet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Andy Black",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Pain_Andy_Black.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Pain (Losin My Mind)",
+      "artist": "Polo G",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Pain_(Losin_My_Mind)_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Pain - Tribute to Eminem and Sia",
+      "artist": "Beautiful Pain",
+      "has_synced": false,
+      "path": "select/11_Beautiful_Pain_-_Tribute_to_Eminem_and_Sia_Beautiful_Pain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Propaganda",
+      "has_synced": true,
+      "path": "select/12_Beautiful_Pain_Propaganda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful Pain (Feat. Lloyd & Mase) (Produced By Da Honorable C.N.O.T.E.)",
+      "artist": "2 Chainz",
+      "has_synced": false,
+      "path": "select/13_Beautiful_Pain_(Feat._Lloyd_&_Mase)_(Produced_By_Da_Honorable_C.N.O.T.E.)_2_Chainz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "In Strict Confidence",
+      "has_synced": false,
+      "path": "select/14_Beautiful_Pain_In_Strict_Confidence.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Eminem/Sia",
+      "has_synced": true,
+      "path": "select/15_Beautiful_Pain_Eminem_Sia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Beautiful Pain",
+      "artist": "Runrig",
+      "has_synced": true,
+      "path": "select/16_This_Beautiful_Pain_Runrig.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/17_Beautiful_Pain_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Pain - Inst.",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Pain_-_Inst._BTOB.txt"
+    }
+  ]
+}
